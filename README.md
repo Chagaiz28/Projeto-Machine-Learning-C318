@@ -8,8 +8,8 @@ Este projeto foi desenvolvido para a matéria **C318 - Tópicos Especiais 2** e 
 
 O projeto é composto pelos seguintes arquivos:
 
-- `movielens_recommender.py`: Script principal que realiza a leitura dos dados, treinamento dos modelos de recomendação e geração de recomendações.
-- `ml-32m.zip`: Arquivo zip contendo os dados do MovieLens.
+- `PROJETOr.py`: Script principal que realiza a leitura dos dados, treinamento dos modelos de recomendação e geração de recomendações.
+- `ml-32m`: Pasta contendo os datasets do MovieLens.
 - `MD5`: Arquivo contendo os checksums MD5 para verificar a integridade dos arquivos CSV.
 
 ## Funcionalidades
